@@ -24,4 +24,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<iframe src="https://juln.icu/"></iframe>
