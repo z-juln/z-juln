@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 > 一款用于快速换肤的postcss插件
 - github: <https://github.com/z-juln/postcss-peeling>
 - npm: <https://www.npmjs.com/package/postcss-peeling>
+#### 2. puts
+> 开发以来收集的坑和对应的解决方案
+- <https://github.com/z-juln/pits>
