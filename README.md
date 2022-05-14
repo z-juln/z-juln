@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p onclick="alert('welcome to juln's home')">test alert</p>
-
 <p align="center">
   <a href="https://github.com/z-juln" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=z-juln&title_color=333&text_color=777" alt="Charmve's Stats" >
