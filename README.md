@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 - npm: <https://www.npmjs.com/package/np-guard>
 - 谁使用过: 虎扑fufu组件库
 
+#### 3. super-ejs
+> 超级版ejs, 提供编译整个ejs模板目录的功能
+- github: <https://github.com/z-juln/super-ejs>
+- npm: <https://www.npmjs.com/package/super-ejs>
+- 谁使用过: 虎扑vscode插件
+
 #### 3. postcss-peeling
 > 一款用于快速换肤的postcss插件
 > 设计得有点煞笔，不推荐使用，已停止维护
