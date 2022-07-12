@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - npm: <https://www.npmjs.com/package/super-ejs>
 - 谁使用过: 虎扑vscode插件
 
-#### 3. postcss-peeling
+#### 4. postcss-peeling
 > 一款用于快速换肤的postcss插件
 > 设计得有点煞笔，不推荐使用，已停止维护
 - github: <https://github.com/z-juln/postcss-peeling>
