@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 - github: <https://github.com/z-juln/postcss-peeling>
 - npm: <https://www.npmjs.com/package/postcss-peeling>
 
+### 参与过的开源项目
+
+- [fighting-design](https://github.com/FightingDesign/fighting-design): 做了工作流、基础设施搭建相关的功能
+
 
 ### 网吧快速装环境
 - [win10-64 git](https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/ec06f3ce-e1e7-4785-9ca4-84b7efb3a906?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220227T064021Z&X-Amz-Expires=300&X-Amz-Signature=2ee4e6c897fbe54ee5727dda84011fa7b813b025ec9d87a6257114f94f282286&X-Amz-SignedHeaders=host&actor_id=66806955&key_id=0&repo_id=23216272&response-content-disposition=attachment%3B%20filename%3DGit-2.35.1.2-64-bit.exe&response-content-type=application%2Foctet-stream)
