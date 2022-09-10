@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 #### 3. 私有vscode插件的自动更新解决方案
 
 <https://juejin.cn/post/7141662937420136479/>
+- 谁使用过: 虎扑vscode插件'键盘侠'
 
 #### 4. super-ejs
 > 超级版ejs, 提供编译整个ejs模板目录的功能
