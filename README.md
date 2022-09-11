@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### 快速联系我
 
 微信: A1850021148
+
 Email: 1850021148@qq.com
 
 ### 我的简历
