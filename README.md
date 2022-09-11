@@ -1,10 +1,3 @@
-<a href="https://github.com/z-juln">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=z-juln&show_icons=true&hide_title=false&theme=tokyonight" alt="Charmve's Stats">
-  <!-- &hide=issues
-  <img src="https://github-readme-stats.vercel.app/api?username=z-juln&hide=issues&title_color=333&text_color=777&theme=tokyonight" alt="Charmve's Stats" >
-  -->
-</a>
-
 ### Hi there 👋
 
 <!--
@@ -21,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/z-juln">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=z-juln&show_icons=true&hide_title=false&theme=tokyonight" alt="Charmve's Stats">
+  <!-- &hide=issues
+  <img src="https://github-readme-stats.vercel.app/api?username=z-juln&hide=issues&title_color=333&text_color=777&theme=tokyonight" alt="Charmve's Stats" >
+  -->
+</a>
 
 - CodeWars: [![](https://www.codewars.com/users/z-juln/badges/micro)](https://www.codewars.com/users/z-juln/)
 
