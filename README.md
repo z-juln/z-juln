@@ -24,6 +24,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+### 我的简历
+
+<https://z-juln.github.io/resume/>
+
 ### 代表作
 > 都是精华，不包含应用级项目
 
