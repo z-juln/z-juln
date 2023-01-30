@@ -65,7 +65,13 @@ Email: 1850021148@qq.com
 - npm: <https://www.npmjs.com/package/super-ejs>
 - 谁使用过: 虎扑vscode插件'键盘侠'、[fighting-design](https://github.com/FightingDesign/fighting-design)
 
-#### 6. postcss-peeling
+#### 6. npm2cjs
+> 将常见的其它格式的npm包转成cjs的npm包的cli, 支持自动发布到npm上等一系列功能
+- github: <https://github.com/z-juln/npm2cjs>
+- npm: <https://www.npmjs.com/package/npm2cjs>
+- 该cli的产物有: [chalk-cjs](https://www.npmjs.com/package)等
+
+#### 7. postcss-peeling
 > 一款用于快速换肤的postcss插件
 > 设计得有点煞笔，不推荐使用，已停止维护
 - github: <https://github.com/z-juln/postcss-peeling>
