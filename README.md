@@ -69,7 +69,7 @@ Email: 1850021148@qq.com
 > 将常见的其它格式的npm包转成cjs的npm包的cli, 支持自动发布到npm上等一系列功能
 - github: <https://github.com/z-juln/npm2cjs>
 - npm: <https://www.npmjs.com/package/npm2cjs>
-- 该cli的产物有: [chalk-cjs](https://www.npmjs.com/package)等
+- 该cli的产物有: [chalk-cjs](https://www.npmjs.com/package/chalk-cjs)等
 
 #### 7. postcss-peeling
 > 一款用于快速换肤的postcss插件
