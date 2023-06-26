@@ -83,7 +83,7 @@ Email: 1850021148@qq.com
 
 
 ### 网吧快速装环境
-- [win10-64 git](https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.41.0.windows.1/)
+- [win10-64 git](https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.41.0.windows.1/). 然后执行 `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`
 - [win10-64 vscode](https://vscode.cdn.azure.cn/stable/83bd43bc519d15e50c4272c6cf5c1479df196a4d/VSCodeUserSetup-x64-1.60.1.exe)
 - [win10-64 node](https://nodejs.org/dist/v17.6.0/node-v17.6.0-x64.msi) or [nvm(推荐)](https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe)
 - [chrome翻墙插件 Maikr](https://tjc-download.ftn.qq.com/ftn_handler/530a016a3ffe76956c67cc4047f88096df2de98db0ef7ed6fde71a4d862632d97d030c8d9f6dae9b79aba99ffc966bcd26fd321fed4d863c8d321f5d4f41570c?compressed=0&dtype=1&fname=Maikr.crx)
