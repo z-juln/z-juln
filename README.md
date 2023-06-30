@@ -30,6 +30,10 @@ CodeWars: [![](https://www.codewars.com/users/z-juln/badges/micro)](https://www.
 
 Email: 1850021148@qq.com
 
+### TODO计划
+
+<https://juejin.cn/post/7250114886242779193#comment>
+
 ### 我的简历
 
 <https://z-juln.github.io/resume/>
