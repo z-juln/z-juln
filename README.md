@@ -75,7 +75,18 @@ Email: 1850021148@qq.com
 - npm: <https://www.npmjs.com/package/npm2cjs>
 - 该cli的产物有: [chalk-cjs](https://www.npmjs.com/package/chalk-cjs)等
 
-#### 7. postcss-peeling
+#### 7. @juln/type-fest
+> typescript类型编程辅助库, 是基于type-fest上增量开发的库
+- github: <https://github.com/z-juln/type-fest>
+- npm: <https://www.npmjs.com/package/@juln/type-fest>
+
+#### 8. react-tracer-component
+> 更优雅的react埋点组件
+> 支持曝光埋点、点击埋点的 react 组件, 不会影响 dom 结构, 不需要多包一层 div
+- github: <https://github.com/z-juln/react-tracer-component>
+- npm: <https://www.npmjs.com/package/react-tracer-component>
+
+#### 9. postcss-peeling
 > 一款用于快速换肤的postcss插件
 > 设计得有点煞笔，不推荐使用，已停止维护
 - github: <https://github.com/z-juln/postcss-peeling>
