@@ -97,9 +97,5 @@ Email: 1850021148@qq.com
 - [fighting-design](https://github.com/FightingDesign/fighting-design): 做了工作流、基础设施搭建相关的功能
 
 
-### 网吧快速装环境
-- [win10-64 git](https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.41.0.windows.1/). 然后执行 `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`
-- [win10-64 vscode](https://vscode.cdn.azure.cn/stable/83bd43bc519d15e50c4272c6cf5c1479df196a4d/VSCodeUserSetup-x64-1.60.1.exe)
-- [win10-64 node](https://nodejs.org/dist/v17.6.0/node-v17.6.0-x64.msi) or [nvm(推荐)](https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe)
-- [chrome翻墙插件 Maikr](https://tjc-download.ftn.qq.com/ftn_handler/530a016a3ffe76956c67cc4047f88096df2de98db0ef7ed6fde71a4d862632d97d030c8d9f6dae9b79aba99ffc966bcd26fd321fed4d863c8d321f5d4f41570c?compressed=0&dtype=1&fname=Maikr.crx)
-- [推荐翻墙软件clash](https://objects.githubusercontent.com/github-production-release-asset-2e65be/153697551/707437d0-1036-4060-9f95-14c16400a684?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230625%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230625T071046Z&X-Amz-Expires=300&X-Amz-Signature=c9746126247298dbb9656836651c6c0c2d6179345c38ab7103efc6d7c3450661&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=153697551&response-content-disposition=attachment%3B%20filename%3DClash.for.Windows-0.20.27-win.7z&response-content-type=application%2Foctet-stream)
+### 其他实用工具
+- 本地服务-页面通过dom快速定位源码位置 https://chromewebstore.google.com/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi
